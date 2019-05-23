@@ -1,0 +1,20 @@
+c:\users\ilham\documents\visual studio 2015\Projects\TADKP_LABSTORE\TADKP_LABSTORE\bin\Debug\TADKP_LABSTORE.exe.config
+C:\Users\ILHAM\Documents\Visual Studio 2015\Projects\TADKP_LABSTORE\TADKP_LABSTORE\bin\Debug\TADKP_LABSTORE.exe
+C:\Users\ILHAM\Documents\Visual Studio 2015\Projects\TADKP_LABSTORE\TADKP_LABSTORE\bin\Debug\TADKP_LABSTORE.pdb
+C:\Users\ILHAM\Documents\Visual Studio 2015\Projects\TADKP_LABSTORE\TADKP_LABSTORE\obj\Debug\TADKP_LABSTORE.csprojResolveAssemblyReference.cache
+C:\Users\ILHAM\Documents\Visual Studio 2015\Projects\TADKP_LABSTORE\TADKP_LABSTORE\obj\Debug\TADKP_LABSTORE.Form1.resources
+C:\Users\ILHAM\Documents\Visual Studio 2015\Projects\TADKP_LABSTORE\TADKP_LABSTORE\obj\Debug\TADKP_LABSTORE.Form2.resources
+C:\Users\ILHAM\Documents\Visual Studio 2015\Projects\TADKP_LABSTORE\TADKP_LABSTORE\obj\Debug\TADKP_LABSTORE.Properties.Resources.resources
+C:\Users\ILHAM\Documents\Visual Studio 2015\Projects\TADKP_LABSTORE\TADKP_LABSTORE\obj\Debug\TADKP_LABSTORE.csproj.GenerateResource.Cache
+C:\Users\ILHAM\Documents\Visual Studio 2015\Projects\TADKP_LABSTORE\TADKP_LABSTORE\obj\Debug\TADKP_LABSTORE.exe
+C:\Users\ILHAM\Documents\Visual Studio 2015\Projects\TADKP_LABSTORE\TADKP_LABSTORE\obj\Debug\TADKP_LABSTORE.pdb
+D:\ILHAM DATA\Praktikum DKP\TA DKP 2019\TADKP_LABSTORE\bin\Debug\TADKP_LABSTORE.exe.config
+D:\ILHAM DATA\Praktikum DKP\TA DKP 2019\TADKP_LABSTORE\obj\Debug\TADKP_LABSTORE.exe
+D:\ILHAM DATA\Praktikum DKP\TA DKP 2019\TADKP_LABSTORE\obj\Debug\TADKP_LABSTORE.pdb
+D:\ILHAM DATA\Praktikum DKP\TA DKP 2019\TADKP_LABSTORE\bin\Debug\TADKP_LABSTORE.exe
+D:\ILHAM DATA\Praktikum DKP\TA DKP 2019\TADKP_LABSTORE\bin\Debug\TADKP_LABSTORE.pdb
+D:\ILHAM DATA\Praktikum DKP\TA DKP 2019\TADKP_LABSTORE\obj\Debug\TADKP_LABSTORE.csprojResolveAssemblyReference.cache
+D:\ILHAM DATA\Praktikum DKP\TA DKP 2019\TADKP_LABSTORE\obj\Debug\TADKP_LABSTORE.Form1.resources
+D:\ILHAM DATA\Praktikum DKP\TA DKP 2019\TADKP_LABSTORE\obj\Debug\TADKP_LABSTORE.Form2.resources
+D:\ILHAM DATA\Praktikum DKP\TA DKP 2019\TADKP_LABSTORE\obj\Debug\TADKP_LABSTORE.Properties.Resources.resources
+D:\ILHAM DATA\Praktikum DKP\TA DKP 2019\TADKP_LABSTORE\obj\Debug\TADKP_LABSTORE.csproj.GenerateResource.Cache
